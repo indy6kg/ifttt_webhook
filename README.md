@@ -1,0 +1,2 @@
+# ifttt_webhook
+IFTTTのWebhookを使ってLINEに通知
